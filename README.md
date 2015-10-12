@@ -1,6 +1,5 @@
-typewriter
+Hongxuan Zhang’s Webpage
 ==========
 
-A simple and beautiful theme for Jekyll.
+This is Hongxuan Zhang’s personal webpage.
 
-![Screenshot](https://raw.githubusercontent.com/alixedi/typewriter/master/images/screenshot.png)

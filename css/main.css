@@ -97,6 +97,14 @@ h3 {
   text-shadow: 1px 0px 1px #444;
 }
 
+.chn {
+  font-size: 1em;
+  font-weight: bold;
+  letter-spacing: 10px;
+  margin-bottom: 10px;
+  text-shadow: 1px 0px 1px #444;
+}
+
 /* posts */
 .posts {
   padding-left: 0px;
