@@ -1,5 +1,4 @@
 Hongxuan Zhang’s Webpage
 ==========
 
-This is Hongxuan Zhang’s personal webpage.
-
+This webpage is now hosted on [http://zhang.hongxuan.me/](http://zhang.hongxuan.me/).
