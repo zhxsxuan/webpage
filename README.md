@@ -1,4 +1,4 @@
-Hongxuan Zhang’s Webpage
+[Hongxuan Zhang’s Webpage](http://zhang.hongxuan.me/)
 ==========
 
-This webpage is now hosted on [http://zhang.hongxuan.me/](http://zhang.hongxuan.me/).
+My personal webpage written by Jekyll markdown. 

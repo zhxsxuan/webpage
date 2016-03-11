@@ -1,0 +1,26 @@
+# Site settings
+title: "Hongxuan Zhang"
+description: "张鸿轩"
+baseurl: ""
+url: "http://zhang.hongxuan.me"
+
+exclude: [Sync.sh, README, LICENSE]
+#gem
+gems: [jekyll-paginate]
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+paginate: 3
+
+# Links
+links:
+  - title: "About"
+    url: /about
+  - title: "Research"
+    url: /research
+  - title: "Experience"
+    url: /experience
+  - title: "Publication"
+    url: /publication
