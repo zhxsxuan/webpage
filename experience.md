@@ -12,6 +12,11 @@ optimal iterative methods for solving discretized partial differential equations
 (PDEs). It mainly utilizes the methodology of Auxiliary Space Preconditioning (ASP)
 to construct efficient linear solvers.
 
+##[14th Copper Mountain Conference on Iterative Methods, Copper Mountain, Colorado, USA](http://grandmaster.colorado.edu/~copper/2016/)
+**Presentation:** *[A Unified Theory for Classical and Aggregation Based AMG](http://grandmaster.colorado.edu/~copper/2016/abstract/zhang_hongxuan_096859/)*
+
+A unified convergence theory for both classical AMG and aggregation based AMG is developed. The coarse space in this theory is defined by the sum of locally low frequency spaces. As an application, the two-level uniform convergence of classical AMG and unsmoothed aggregation AMG for finite element discretized Poisson equation on a shape regular mesh is proved using this theory.
+
 ## [5th edition of SPE Reservoir Characterisation and Simulation Conference and Exhibition, Abu Dhabi](http://www.spe.org/events/rcsc/2015/) 
 
 <!--**Abu Dhabi, UAE, 09/14/2015-09/16/2015**-->
@@ -21,7 +26,7 @@ to construct efficient linear solvers.
 A parallel reservoir simulator is developed and implemented on the world’s fastest supercomputer [Tianhe-2](http://www.top500.org/system/177999). Several benchmark problems are tested to prove the robustness, efficiency and parallel scalability of the simulator. 
 
 
-## [2015 SIAM Conference on CSE, Salt Lake City, USA](https://www.siam.org/meetings/cse15/) 
+## [2015 SIAM Conference on CSE, Salt Lake City, Utah, USA](https://www.siam.org/meetings/cse15/) 
 
 <!--**Salt Lake City, UT, 03/13/2015-03/18/2015**-->
 
@@ -32,7 +37,7 @@ The aggregation based Alegebraic multigrid (AMG) method is generalized to solve 
 large-scale linear system of equations discretized from implicit SPH. Auxiliary grid
 approach is used to improve the efficiency and reduce the computational complexity.
 
-## [2014 SIAM Annual Meeting, Chicago, USA](http://www.siam.org/meetings/an14/) 
+## [2014 SIAM Annual Meeting, Chicago, Illinois, USA](http://www.siam.org/meetings/an14/) 
 
 <!--**Chicago, IL, 07/07/2014-07/11/2014**-->
 
