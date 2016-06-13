@@ -26,5 +26,6 @@ For a complete CV of me, please email me by:
 <center> hzhang <span style="color:grey">AT</span> psu <span style="color:grey">DOT</span> edu.</center>
 
 ## Links
-* [My LinkedIn profile](https://www.linkedin.com/in/zhxsxuan)
-* [My GitHub repositories](https://github.com/zhxsxuan)
+* [My LinkedIn profile](https://www.linkedin.com/in/zhxsxuan/)
+* [My GitHub repositories](https://github.com/zhxsxuan/)
+* [My Instagram gallery](https://www.instagram.com/zhxsxuan/)
