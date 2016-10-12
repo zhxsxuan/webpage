@@ -12,6 +12,12 @@ optimal iterative methods for solving discretized partial differential equations
 (PDEs). It mainly utilizes the methodology of Auxiliary Space Preconditioning (ASP)
 to construct efficient linear solvers.
 
+## Developer of PennSim/ParPennSim software (since 2013)
+PennSim is an oil and gas reservoir simulator developed for research purpose. 
+It uses a general compositional formulation for the all the fluids and has included both black oil models and equation of state (EOS) compositional model. ParPennSim is a parallel reservoir simulator based on PennSim. In 2015,  ParPennSim was successfully implemented on the world’s No. 1 supercomputer (up to November 2015) [Tianhe-2](https://www.top500.org/lists/2015/11) to test several benchmark problems, which showed its robustness, efficiency and parallel scalability. (click [here](https://www.onepetro.org/conference-paper/SPE-175602-MS) for reference)
+
+
+
 ##[14th Copper Mountain Conference on Iterative Methods, Copper Mountain, Colorado, USA](http://grandmaster.colorado.edu/~copper/2016/)
 **Presentation:** *[A Unified Theory for Classical and Aggregation Based AMG](http://grandmaster.colorado.edu/~copper/2016/abstract/zhang_hongxuan_096859/)*
 
