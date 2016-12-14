@@ -6,7 +6,7 @@ url: "https://zhang.hongxuan.me"
 paginate: 10
 
 gems: [jekyll-paginate]
-exclude: ['CNAME', 'Sync.sh', 'README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+exclude: ['Sync.sh', 'README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 
 # Links
