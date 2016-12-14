@@ -3,11 +3,10 @@ description: "张鸿轩"
 baseurl: ""
 url: "https://zhang.hongxuan.me"
 
-permalink: /:year/:month/:day/:title/
 paginate: 10
 
 gems: [jekyll-paginate]
-exclude: ['Sync.sh', 'README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+exclude: ['CNAME', 'Sync.sh', 'README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 
 # Links
