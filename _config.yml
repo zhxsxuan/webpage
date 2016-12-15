@@ -11,7 +11,9 @@ exclude: ['Sync.sh', 'README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 # Links
 links:
-  - title: "About me"
+  - title: "Home"
+    url: /
+  - title: "About"
     url: /about
   - title: "Research"
     url: /research
