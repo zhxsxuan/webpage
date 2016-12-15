@@ -1,7 +1,7 @@
-[Hongxuan Zhang’s Webpage](https://zhang.hongxuan.me/)
+Hongxuan Zhang’s Webpage
 ==========
 
-My personal webpage powered by [Jekyll](https://jekyllrb.com/) markdown.
+My [personal webpage](https://zhang.hongxuan.me/) powered by [Jekyll](https://jekyllrb.com/) markdown.
 
 License
 ---------
