@@ -1,4 +1,9 @@
 [Hongxuan Zhang’s Webpage](https://zhang.hongxuan.me/)
 ==========
 
-My personal webpage using [Jekyll](https://jekyllrb.com/) markdown.
+My personal webpage powered by [Jekyll](https://jekyllrb.com/) markdown.
+
+License
+---------
+
+GPLv2 or higher
