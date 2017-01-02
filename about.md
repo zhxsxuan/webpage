@@ -21,7 +21,7 @@ I’m currently a PhD. Candidate at the [department of mathematics of Penn State
 ## Curriculum Vitae
 
 For a complete CV of me, please email me by: 
-<center> hzhang <span style="color:grey">AT</span> psu <span style="color:grey">DOT</span> edu.</center>
+<center> hxzhang <span style="color:grey">AT</span> psu <span style="color:grey">DOT</span> edu.</center>
 
 ## Links
 * [My LinkedIn profile](https://www.linkedin.com/in/zhxsxuan/)
