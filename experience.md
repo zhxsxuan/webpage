@@ -16,6 +16,12 @@ to construct efficient linear solvers.
 PennSim is an oil and gas reservoir simulator developed for research purpose. 
 It uses a general compositional formulation for the all the fluids and has included both black oil models and equation of state (EOS) compositional model. ParPennSim is a parallel reservoir simulator based on PennSim. In 2015,  ParPennSim was successfully implemented on the world’s No. 1 supercomputer (up to November 2015) [Tianhe-2](https://www.top500.org/lists/2015/11) to test several benchmark problems, which showed its robustness, efficiency and parallel scalability.[<img src="/images/Icon_External_Link.svg" alt="image"/>](https://www.onepetro.org/conference-paper/SPE-175602-MS)
 
+## The 24th International Conference on Domain Decomposition Methods, Svalbard, Norway[<img src="/images/Icon_External_Link.svg" alt="image"/>](http://www.ddm.org/dd24/home.html)
+
+**Presentation:** *A Unified Approach to the Design and Analysis of AMG*[<img src="/images/Icon_External_Link.svg" alt="image"/>](http://www.ddm.org/dd24/DD24ScheduleOverview-website.pdf)
+
+A general framework for the design and analysis of two-level AMG methods is presented. The approach is to find a basis for locally-the-best coarse space then glued them together using carefully designed linear extension maps to form a global coarse space. Such coarse spaces, constructed locally, satisfy global approximation property and by estimating the local Poincar&eacute; constants, we obtain sharp bounds on the convergence rate of the resulting two-level methods. To illustrate the use of the theoretical framework in practice, we prove the uniform convergence of the classical two level AMG method for finite element discretization of a jump coefficient problem and anisotropic problems on a shape regular mesh.
+
 ## International Conference on Multigrid and Multiscale Methods in Computational Sciences, Bruchsal, Germany[<img src="/images/Icon_External_Link.svg" alt="image"/>](http://gcsc.uni-frankfurt.de/img2016)
 
 **Presentation:** *A Unified Approach to the Construction of Coarse Spaces and Convergence Analysis in AMG*[<img src="/images/Icon_External_Link.svg" alt="image"/>](http://gcsc.uni-frankfurt.de/img2016/programme)
